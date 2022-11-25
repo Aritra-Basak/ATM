@@ -1,5 +1,5 @@
-# ATM
-<h2>Simulation of an ATM with the use of core Java.</h2>
+# ATM 💸
+<h2>Simulation of an ATM 💰 with the use of core Java.</h2>
 
 In this project we aim to simulate an ATM 
 * Here we use predefined account with account number and pin to log in various features.
